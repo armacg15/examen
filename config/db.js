@@ -1,6 +1,6 @@
 //db.js
 const mongoose = require('mongoose');
-const MONGO_URI = 'mongodb+srv://cluster0.qi7qa.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0';
+const MONGO_URI = 'mongodb+srv://123456:FaHBs73ng-NEnBE@cluster0.qi7qa.mongodb.net/';
 
 // Configuración de strictQuery
 mongoose.set('strictQuery', false); // O puedes usar true si prefieres el comportamiento actual
